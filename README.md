@@ -20,7 +20,7 @@ The features rating_i are the number of ratings with i stars.
 There are not enough features.
 
 
-If possible I would like to change the topic of the project to:
+## If possible I would like to change the topic of the project to:
 
 # Detecting failures in Scania trucks
 ### Domain

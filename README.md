@@ -25,5 +25,5 @@ Cartographic data for more than half a million points from the Roosevelt Nationa
 ### Known unknowns  
 
 The Wilderness_AreaX features are only relevant for the particular data collected at the Roosevelt National Forest and will be discarded.  
-The Soil_TypeX features are redundant and will be substituted by a single feature with range (1-40) labeling the soil type.
+The Soil_TypeX features are redundant and will be substituted by a single feature with range (1-40) labeling the soil type.  
 The large amount of data could make the most computationally intensive methods too expensive to be used in the modeling.    
